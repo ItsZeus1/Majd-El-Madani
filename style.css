@@ -94,16 +94,11 @@ hr{
     padding: 6px;
     display: inline-flex;
 }
-#first_p #first-ul ul li a {
+#first_p  ul li a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: aliceblue;
 }
-#first_p #first-u ul{
+#first_p  ul{
     margin-left: 100px;
 }
 
-#first-ul{
-    text-align: right;
-
-    
-}
