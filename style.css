@@ -103,6 +103,7 @@ hr{
 #first_p  ul{
     margin-left: 0px;
     float: left;
+    padding-left: 30px;
 }
 #MM-1{
     font-size: 40px;
