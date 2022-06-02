@@ -101,4 +101,5 @@ hr{
     list-style: none;
     text-decoration: none;
     padding: 6px;
+    display: inline-flex;
 }
