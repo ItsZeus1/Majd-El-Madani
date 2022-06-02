@@ -26,18 +26,9 @@ h3{
     padding-top: 160px;
     padding-bottom: 10px;
 }
-a{
-    border-radius: 9px;
-    border:2px solid;
-    position: absolute;
-    padding: 10px;
-    text-decoration: none;
-    color: #1C2833;
-}
-a:focus{
-    color: green;
 
-}
+
+
 #buttn:hover{
     color: green;
 }
