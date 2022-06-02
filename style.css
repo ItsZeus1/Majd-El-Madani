@@ -5,12 +5,12 @@
 #first_p{
         color: white;
         background-color: #1C2833;
-        text-align: center;
+        text-align: right;
         text-decoration: none;
         padding-top: 10px;
-        float: center;
         font-size: 22px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 150px;
 }
 h2{
 
@@ -100,6 +100,7 @@ hr{
 }
 #first_p  ul{
     margin-left: 0px;
+    float: left;
 }
 #MM-1{
     font-size: 40px;
