@@ -39,7 +39,7 @@ a:focus{
 
 }
 #buttn:hover{
- color: green;
+    color: green;
 }
 @media screen and(max-width:450px){
    
@@ -96,4 +96,9 @@ hr{
 
 #th-p-b{
     background-color: #1C2833;
+}
+.ul-1{
+    list-style: none;
+    text-decoration: none;
+    padding: 6px;
 }
