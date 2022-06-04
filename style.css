@@ -112,7 +112,7 @@ hr{
     font-size: 40px;
     
 }
-#dynamic li{
+#dynamic li span{
     color: green;
     font-size: 60px;
     list-style: none;
