@@ -22,11 +22,14 @@ h2{
 h3{
     padding-left: 74px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 90px;}
+    font-size: 90px;
+    display: flex;
+    }
 
 #freelance{
     padding-top: 160px;
     padding-bottom: 10px;
+    display: inline-flex;
 }
 
 
@@ -107,6 +110,9 @@ hr{
 }
 #MM-1{
     font-size: 40px;
+    
+}
+#dynamic{
     
 }
 
