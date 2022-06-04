@@ -112,7 +112,12 @@ hr{
     font-size: 40px;
     
 }
-#dynamic{
-    
+#dynamic li{
+    color: green;
+    font-size: 60px;
+    list-style: none;
+    font-weight: 500px;
 }
-
+#dynamic{
+    margin-left: 10px;
+}
